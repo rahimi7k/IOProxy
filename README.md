@@ -1,4 +1,8 @@
-This is the production release of IOProxy contributed for utilizing the most advanced features of Followergir Instagram application, such as connecting to Instagram, viewing posts and so on.
+
+![ic_proxy](https://github.com/rahimi7k/IOProxy/assets/50842032/22ef5b4d-9506-4726-af49-86c74e3d3c74)
+
+
+This is the **production release** of **IOProxy** contributed for utilizing the most advanced features of Followergir Instagram application, such as connecting to Instagram, viewing posts and so on.
 
 ![proxy_windows_off](https://github.com/rahimi7k/IOProxy/assets/50842032/60da9a1f-684b-4bba-85bf-e4fddde5331d)
 
